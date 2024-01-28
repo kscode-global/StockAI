@@ -81,7 +81,7 @@ stock_ai.mlops()
 We welcome contributions from the community to enhance StockAI's capabilities, add new features, and improve its performance. To contribute, please follow our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
-StockAI is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute the code in accordance with the terms outlined in the license.
+StockAI is licensed under the [Apache 2.0 License](LICENSE.md). Feel free to use, modify, and distribute the code in accordance with the terms outlined in the license.
 
 ## Acknowledgments
 We would like to express our gratitude to the open-source community, without which StockAI would not be possible. Special thanks to contributors and supporters who have played a crucial role in shaping this project.
